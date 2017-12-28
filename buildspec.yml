@@ -24,5 +24,5 @@ phases:
       - echo Build completed on `date`
 artifacts:
   files:
-    - aws-code-build-android.jar
+    - target/aws-code-build-android.jar
   discard-paths: yes
